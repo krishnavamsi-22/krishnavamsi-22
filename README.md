@@ -1,7 +1,7 @@
 
 
-                                                                        Hi 👋! My name is Chandrapati Krishna vamsi ✨📚
-                                                                           -- An aspiring Software Developer 🚀🚀🚀
+                                                      Hi 👋! My name is Chandrapati Krishna vamsi ✨📚
+                                                         -- An aspiring Software Developer 🚀🚀🚀
 
 
 - 🔭 I’m currently working on ...
