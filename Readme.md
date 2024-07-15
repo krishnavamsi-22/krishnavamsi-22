@@ -2,7 +2,21 @@
 <h3 align="center">A passionate Full stack developer from India </h3>
 
 # 💫 About Me:
-I develop real-world applications (most of the time, hopefully) using Next-gen web tools and services. <br>I also like to interpret code and analyze it to make efficient solutions and algorithms.  <br><br>Just another person trying to live life by commanding machines.
+### Hi there! 👋
+
+I am currently pursuing B.Tech in AI&DS at Vishnu Institute of Technology.
+I am a competitive programmer with a good grip on Data Structures and Algorithms.
+I am good at MERN stack development and Machine Learning.
+📫 How to reach me krishnavamsichandrapati@gmail.com
+📄 Know about my experiences 
+
+
+### 📘 Course Work
+- Data Structures and Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
 
 **CHECK OUT MY WEBSITE!! **
 
@@ -25,7 +39,7 @@ I develop real-world applications (most of the time, hopefully) using Next-gen w
 [![](https://gtce.itsvg.in/api?username=aktindo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ---
