@@ -33,7 +33,8 @@ I am good at MERN stack development and Machine Learning.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishnavamsi-22&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
 <br/>
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=krishnavamsi-22&theme=dark&hide_border=false)<br>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=krishnavamsi-22&theme=dark&hide_border=false)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavamsi-22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
