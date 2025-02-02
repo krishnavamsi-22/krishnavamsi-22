@@ -40,6 +40,7 @@ I am good at MERN stack development and Machine Learning.
 [![](https://gtce.itsvg.in/api?username=aktindo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
