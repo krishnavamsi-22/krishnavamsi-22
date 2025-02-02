@@ -37,6 +37,7 @@ I am good at MERN stack development and Machine Learning.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavamsi-22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
+
 [![](https://gtce.itsvg.in/api?username=aktindo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
